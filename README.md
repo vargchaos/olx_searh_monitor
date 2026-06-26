@@ -321,7 +321,7 @@ MIT License - див. [LICENSE](LICENSE)
 ## 👤 Автор
 
 **Володимир**
-- 🐙 GitHub: [@user](https://github.com/vargchaos)
+- 🐙 GitHub: [@vargchaos](https://github.com/vargchaos)
 - 📧 Email: vargchaos@gmail.com
 
 ---
